@@ -6,7 +6,6 @@ public class KnifeShooter : MonoBehaviour
 {
 
     public Rigidbody2D rb;
-    public float power;
     public GameObject cardboard;
     public GameObject prefab;
     public bool isPresent;
@@ -19,15 +18,9 @@ public class KnifeShooter : MonoBehaviour
 
     public void Update()
     {
-
-        if (Input.GetKeyDown(KeyCode.Mouse1))
-        {
-            rb.AddForce(transform.up * power);
-        }
-
         if (isPresent == false)
         {
-            Instantiate(prefab, new Vector3(0.00999999978f, -3.47000003f, 0), Quaternion.identity);
+            Instantiate(prefab, new Vector3(0.622699976f, -163.831604f, 0f), Quaternion.identity);
             isPresent = true;
         }
 

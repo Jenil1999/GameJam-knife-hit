@@ -9,6 +9,6 @@ public class CardBoardRotator : MonoBehaviour
 
     public void Update()
     {
-        cardBoard.transform.Rotate(0, 0, 600f * rPm );
+        cardBoard.transform.Rotate(0, 0, 6f * rPm );
     }
 }
