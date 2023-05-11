@@ -42,7 +42,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -139,7 +139,427 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Knife_Hit_2023-05-09-16-52-41-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 674
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a5a37dfae294ef3a96477baed52eea
+      internalID: 1711953047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Hit_2023-05-09-16-52-41-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 672
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdaa0f1de8bff40cf836ce9542510b2a
+      internalID: 42263578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Hit_2023-05-09-16-52-41-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 666
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a52936bb4394502aa71119c7dc8e76
+      internalID: -219126041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Hit_2023-05-09-16-52-41-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 546
+        width: 59
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09340bad7c5d479bb96a865291a210d
+      internalID: -239056454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Hit_2023-05-09-16-52-41-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 558
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175421c0bcd5445e180608a16e7b9a38
+      internalID: -331608427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Hit_2023-05-09-16-52-41-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 558
+        width: 20
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5733a142e800a486e98c54ef300b9b30
+      internalID: -1356406134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Hit_2023-05-09-16-52-41-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 546
+        width: 95
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa64785aa1524a8c85dcdaeca60bd98
+      internalID: -1243077163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Hit_2023-05-09-16-52-41-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 553
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46e94920a29348c5824df7540ccd1bc
+      internalID: -1887770959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Hit_2023-05-09-16-52-41-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 522
+        width: 212
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1b8bbe74535442f86326d31684a5c8
+      internalID: -1633450940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Hit_2023-05-09-16-52-41-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 456
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14268808b81945a1ab5ca84259164e7
+      internalID: 1117888000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Hit_2023-05-09-16-52-41-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 467
+        width: 19
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9922a8b038c401cac4d0a5d22818d0
+      internalID: 1143295636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Hit_2023-05-09-16-52-41-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 465
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94ebdbaf1bba4a00a42f3c51008bb8c
+      internalID: -1250431603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Hit_2023-05-09-16-52-41-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 294
+        width: 25
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7070022c919d14024b67839dea4023b3
+      internalID: 1834525752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Hit_2023-05-09-16-52-41-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 204
+        width: 126
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f462d348a9940949d5300eeaf6ee9a
+      internalID: -8142378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Hit_2023-05-09-16-52-41-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 204
+        width: 123
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bfd839ce5f94f9ab86929f1ae3e0f2
+      internalID: -250027589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Hit_2023-05-09-16-52-41-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 127
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 799e5f808f3de4dd88ca1a28ace7c4bd
+      internalID: -932399623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Hit_2023-05-09-16-52-41-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 126
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e341532adbc4b9c8f9195e79518658
+      internalID: 1035300692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Hit_2023-05-09-16-52-41-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 119
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b02d3233993d45fbad34ac49e8f1723
+      internalID: -1853150467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Hit_2023-05-09-16-52-41-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 122
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71385e82c7b194672a5eddd8a6f12ced
+      internalID: 1936745951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knife_Hit_2023-05-09-16-52-41-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 129
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a72f7dbf0b554c4aac02cab0b4c5641
+      internalID: -1713727546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -150,7 +570,40 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Knife_Hit_2023-05-09-16-52-41-removebg-preview_0: 1711953047
+      Knife_Hit_2023-05-09-16-52-41-removebg-preview_1: 42263578
+      Knife_Hit_2023-05-09-16-52-41-removebg-preview_10: 1143295636
+      Knife_Hit_2023-05-09-16-52-41-removebg-preview_11: -1250431603
+      Knife_Hit_2023-05-09-16-52-41-removebg-preview_12: 1168837470
+      Knife_Hit_2023-05-09-16-52-41-removebg-preview_13: 996854606
+      Knife_Hit_2023-05-09-16-52-41-removebg-preview_14: 275108082
+      Knife_Hit_2023-05-09-16-52-41-removebg-preview_15: 1954180288
+      Knife_Hit_2023-05-09-16-52-41-removebg-preview_16: 1168895989
+      Knife_Hit_2023-05-09-16-52-41-removebg-preview_17: 268331843
+      Knife_Hit_2023-05-09-16-52-41-removebg-preview_18: -848144369
+      Knife_Hit_2023-05-09-16-52-41-removebg-preview_19: 1765268726
+      Knife_Hit_2023-05-09-16-52-41-removebg-preview_2: -219126041
+      Knife_Hit_2023-05-09-16-52-41-removebg-preview_20: 1834525752
+      Knife_Hit_2023-05-09-16-52-41-removebg-preview_21: -8142378
+      Knife_Hit_2023-05-09-16-52-41-removebg-preview_22: -250027589
+      Knife_Hit_2023-05-09-16-52-41-removebg-preview_23: -932399623
+      Knife_Hit_2023-05-09-16-52-41-removebg-preview_24: 1035300692
+      Knife_Hit_2023-05-09-16-52-41-removebg-preview_25: -1853150467
+      Knife_Hit_2023-05-09-16-52-41-removebg-preview_26: 555123304
+      Knife_Hit_2023-05-09-16-52-41-removebg-preview_27: -1925026138
+      Knife_Hit_2023-05-09-16-52-41-removebg-preview_28: 1936745951
+      Knife_Hit_2023-05-09-16-52-41-removebg-preview_29: -1713727546
+      Knife_Hit_2023-05-09-16-52-41-removebg-preview_3: -239056454
+      Knife_Hit_2023-05-09-16-52-41-removebg-preview_30: 528295545
+      Knife_Hit_2023-05-09-16-52-41-removebg-preview_31: 1335724984
+      Knife_Hit_2023-05-09-16-52-41-removebg-preview_32: -415169249
+      Knife_Hit_2023-05-09-16-52-41-removebg-preview_4: -331608427
+      Knife_Hit_2023-05-09-16-52-41-removebg-preview_5: -1356406134
+      Knife_Hit_2023-05-09-16-52-41-removebg-preview_6: -1243077163
+      Knife_Hit_2023-05-09-16-52-41-removebg-preview_7: -1887770959
+      Knife_Hit_2023-05-09-16-52-41-removebg-preview_8: -1633450940
+      Knife_Hit_2023-05-09-16-52-41-removebg-preview_9: 1117888000
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
